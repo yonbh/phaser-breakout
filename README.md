@@ -1,6 +1,8 @@
 # Phaser 2 - BREAKOUT
 An attempt at making a very basic breakout game with Phaser 2. CE 2.11.0 framework.
 
+![SCREEN](../master/screenshot/bo-screenshot.png)
+
 ## Controls
 - Mouse
 - Keyboard (A, D, LEFT, RIGHT)
