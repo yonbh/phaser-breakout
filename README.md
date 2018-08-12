@@ -15,4 +15,4 @@ An attempt at making a very basic breakout game with Phaser 2. CE 2.11.0 framewo
 - Phaser 2 CE 2.11.0
 
 #### Acknowledgements
--  Game built upon [MDN Phaser Tutoria(l]https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
+-  Game built upon [MDN Phaser Tutorial](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
